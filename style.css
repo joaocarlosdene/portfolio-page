@@ -19,4 +19,9 @@ body{
 /*--------bloco---------*/
 a{
     text-decoration: none;
+    color: black;
+}
+p{
+    font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans';
+    font-weight: 300;
 }
