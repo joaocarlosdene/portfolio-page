@@ -9,7 +9,7 @@ body{
     font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans';
 }
 .header{
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgb(255, 255, 255);
     font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans';
 }
 /*------COPY--------*/
@@ -24,4 +24,11 @@ a{
 p{
     font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans';
     font-weight: 300;
+}
+/*--------CAROUSEL-------*/
+
+.carousel-item{
+    height: 550px;
+    background-position: center;
+    background-size: cover;
 }
